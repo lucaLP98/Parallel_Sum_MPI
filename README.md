@@ -1,4 +1,4 @@
-# Somma Parallela su cluster MIMD
+# Somma Parallela su cluster MIMD a memoria ditribuita
 Algoritmo per il calcolo della somma di N numeri reali, in ambiente di calcolo parallelo su architettura MIMD a memoria distribuita.
 Algoritmo è scritto in linguaggio C e fa uso della libreria MPI.
 <br><br>
